@@ -1,7 +1,3 @@
-# Chatty Octopus - Ideas and To Dos
+![Chatty Octopus Banner](https://chattyoctopus.com/images/octopusbanner.jpg)
 
-![Chatty Octopus Image](https://pbs.twimg.com/profile_images/715982635055640577/MSnd4YX5_400x400.jpg)
-
-------------------------------------------------------------------
-## ChattyOctopus.com
-------------------------------------------------------------------
+# Chatty Octopus - A Family of Websites Covering SEO & Social Media Marketing
